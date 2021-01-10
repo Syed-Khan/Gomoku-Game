@@ -1,2 +1,2 @@
 # Gomoku-Game
-This app guides students in finding suitable internships by connecting with their assigned advisor and internship supervisor. 
+This game of two players can records and displays inputs on board. First person to place 5 consecutive units in a row wins the game. 
